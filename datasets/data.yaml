@@ -1,5 +1,5 @@
-train: images/train # train images 
-val: images/val # val images 
+train: ./train/images # train images 
+val: ./val/images # val images 
 test: # test images (optional)
 
 # Classes
